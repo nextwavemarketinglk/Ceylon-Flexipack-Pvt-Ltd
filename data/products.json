@@ -1,0 +1,292 @@
+[
+  {
+    "id": "ldpe-reels",
+    "name_en": "LDPE Polythene Reels",
+    "name_si": "LDPE පොලිතින් රෝල්",
+    "category": "films",
+    "description_en": "Flexible LDPE film reels for packaging applications.",
+    "description_si": "ඇසුරුම් කටයුතු සඳහා නම්‍යශීලී LDPE පොලිතින් රෝල්.",
+    "image": "assets/images/products/ldpe-reels.svg",
+    "featured": true
+  },
+  {
+    "id": "hdpe-reels",
+    "name_en": "HDPE Polythene Reels",
+    "name_si": "HDPE පොලිතින් රෝල්",
+    "category": "films",
+    "description_en": "HDPE film reels supplied to fit packaging requirements.",
+    "description_si": "ඇසුරුම් අවශ්‍යතා අනුව HDPE පොලිතින් රෝල්.",
+    "image": "assets/images/products/hdpe-reels.svg",
+    "featured": false
+  },
+  {
+    "id": "pp-reels",
+    "name_en": "PP Film Reels",
+    "name_si": "PP ෆිල්ම් රෝල්",
+    "category": "films",
+    "description_en": "Polypropylene film reels for a range of packaging uses.",
+    "description_si": "විවිධ ඇසුරුම් සඳහා පොලිප්‍රොපිලීන් ෆිල්ම් රෝල්.",
+    "image": "assets/images/products/pp-reels.svg",
+    "featured": false
+  },
+  {
+    "id": "pvc-reels",
+    "name_en": "PVC Film Reels",
+    "name_si": "PVC ෆිල්ම් රෝල්",
+    "category": "films",
+    "description_en": "PVC film reels for suitable packaging applications.",
+    "description_si": "අදාළ ඇසුරුම් අවශ්‍යතා සඳහා PVC ෆිල්ම් රෝල්.",
+    "image": "assets/images/products/pvc-reels.svg",
+    "featured": false
+  },
+  {
+    "id": "shopping-bags",
+    "name_en": "Shopping Bags",
+    "name_si": "ෂොපින් බෑග්",
+    "category": "bags",
+    "description_en": "Shopping bags for shops, retail and takeaway applications.",
+    "description_si": "වෙළඳසැල් හා පාරිභෝගික භාවිතය සඳහා ෂොපින් බෑග්.",
+    "image": "assets/images/products/shopping-bags.svg",
+    "featured": true
+  },
+  {
+    "id": "carrying-bags",
+    "name_en": "Carrying Bags",
+    "name_si": "කැරියර් බෑග්",
+    "category": "bags",
+    "description_en": "Carrying bags for everyday retail and commercial needs.",
+    "description_si": "දෛනික හා වාණිජ අවශ්‍යතා සඳහා කැරියර් බෑග්.",
+    "image": "assets/images/products/carrying-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "courier-bags",
+    "name_en": "Courier Bags",
+    "name_si": "කුරියර් බෑග්",
+    "category": "bags",
+    "description_en": "Mailing and dispatch bags for orders and parcels.",
+    "description_si": "භාණ්ඩ බෙදාහැරීම හා පාර්සල් සඳහා කුරියර් බෑග්.",
+    "image": "assets/images/products/courier-bags.svg",
+    "featured": true
+  },
+  {
+    "id": "tulip-bags",
+    "name_en": "Tulip Bags",
+    "name_si": "ටියුලිප් බෑග්",
+    "category": "bags",
+    "description_en": "Tulip-style bags for selected packaging uses.",
+    "description_si": "විශේෂ ඇසුරුම් අවශ්‍යතා සඳහා ටියුලිප් බෑග්.",
+    "image": "assets/images/products/tulip-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "shipper-bags",
+    "name_en": "Shipper Bags",
+    "name_si": "ෂිපර් බෑග්",
+    "category": "bags",
+    "description_en": "Shipping bags for packing and delivery operations.",
+    "description_si": "නැව්ගත කිරීම සහ බෙදාහැරීම සඳහා ෂිපර් බෑග්.",
+    "image": "assets/images/products/shipper-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "vacuum-bags",
+    "name_en": "Vacuum Bags",
+    "name_si": "වැකුම් බෑග්",
+    "category": "bags",
+    "description_en": "Vacuum packaging bags for suitable product applications.",
+    "description_si": "සුදුසු නිෂ්පාදන සඳහා වැකුම් ඇසුරුම් බෑග්.",
+    "image": "assets/images/products/vacuum-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "sticker-bags",
+    "name_en": "Sticker Bags",
+    "name_si": "ස්ටිකර් බෑග්",
+    "category": "bags",
+    "description_en": "Packaging bags with sticker-style sealing options.",
+    "description_si": "ස්ටිකර් ආකාරයේ මුද්‍රා තැබීමේ පහසුකම් සහිත බෑග්.",
+    "image": "assets/images/products/sticker-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "garbage-bags",
+    "name_en": "Garbage Bags",
+    "name_si": "කසළ බෑග්",
+    "category": "bags",
+    "description_en": "Garbage and waste collection bags.",
+    "description_si": "කසළ එකතු කිරීම සඳහා බෑග්.",
+    "image": "assets/images/products/garbage-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "paper-bags",
+    "name_en": "Paper Bags",
+    "name_si": "කඩදාසි බෑග්",
+    "category": "bags",
+    "description_en": "Paper bags for retail, gifting and takeaway use.",
+    "description_si": "සිල්ලර වෙළඳාම සහ රැගෙන යාම සඳහා කඩදාසි බෑග්.",
+    "image": "assets/images/products/paper-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "paper-cups",
+    "name_en": "Paper Cups",
+    "name_si": "කඩදාසි කෝප්ප",
+    "category": "food",
+    "description_en": "Disposable paper cups for beverage service.",
+    "description_si": "පානීය සේවා සඳහා භාවිත කළ හැකි කඩදාසි කෝප්ප.",
+    "image": "assets/images/products/paper-cups.svg",
+    "featured": true
+  },
+  {
+    "id": "plastic-cups",
+    "name_en": "Plastic Cups",
+    "name_si": "ප්ලාස්ටික් කෝප්ප",
+    "category": "food",
+    "description_en": "Plastic cups for food and beverage serving.",
+    "description_si": "ආහාර හා පානීය සේවා සඳහා ප්ලාස්ටික් කෝප්ප.",
+    "image": "assets/images/products/plastic-cups.svg",
+    "featured": false
+  },
+  {
+    "id": "plastic-bottles",
+    "name_en": "Plastic Bottles",
+    "name_si": "ප්ලාස්ටික් බෝතල්",
+    "category": "food",
+    "description_en": "Plastic bottles for suitable filling and packaging use.",
+    "description_si": "අදාළ පිරවීමේ සහ ඇසුරුම් අවශ්‍යතා සඳහා ප්ලාස්ටික් බෝතල්.",
+    "image": "assets/images/products/plastic-bottles.svg",
+    "featured": false
+  },
+  {
+    "id": "aluminium-trays",
+    "name_en": "Aluminium Trays",
+    "name_si": "ඇලුමිනියම් තැටි",
+    "category": "food",
+    "description_en": "Aluminium trays for takeaway and food packaging.",
+    "description_si": "ආහාර ඇසුරුම් සඳහා ඇලුමිනියම් තැටි.",
+    "image": "assets/images/products/aluminium-trays.svg",
+    "featured": false
+  },
+  {
+    "id": "stretch-films",
+    "name_en": "Stretch Films",
+    "name_si": "ස්ට්‍රෙච් ෆිල්ම්",
+    "category": "films",
+    "description_en": "Stretch wrapping film for bundling and protecting goods.",
+    "description_si": "භාණ්ඩ ආවරණය සහ ආරක්ෂාව සඳහා ස්ට්‍රෙච් ෆිල්ම්.",
+    "image": "assets/images/products/stretch-films.svg",
+    "featured": true
+  },
+  {
+    "id": "laminated-bags",
+    "name_en": "Laminated Bags",
+    "name_si": "ලැමිනේටඩ් බෑග්",
+    "category": "bags",
+    "description_en": "Laminated bag options for printed product packaging.",
+    "description_si": "මුද්‍රිත ඇසුරුම් සඳහා ලැමිනේටඩ් බෑග්.",
+    "image": "assets/images/products/laminated-bags.svg",
+    "featured": true
+  },
+  {
+    "id": "shrink-films",
+    "name_en": "Shrink Films",
+    "name_si": "ෂ්‍රින්ක් ෆිල්ම්",
+    "category": "films",
+    "description_en": "Shrink film solutions for packaging and bundling.",
+    "description_si": "ඇසුරුම් සහ බණ්ඩල් කිරීම සඳහා ෂ්‍රින්ක් ෆිල්ම්.",
+    "image": "assets/images/products/shrink-films.svg",
+    "featured": false
+  },
+  {
+    "id": "bubble-wrapping",
+    "name_en": "Bubble Wrapping",
+    "name_si": "බබල් රැප්",
+    "category": "protective",
+    "description_en": "Cushioning bubble wrap for product protection.",
+    "description_si": "භාණ්ඩ ආරක්ෂාව සඳහා බබල් රැප්.",
+    "image": "assets/images/products/bubble-wrapping.svg",
+    "featured": true
+  },
+  {
+    "id": "table-cloths",
+    "name_en": "Table Cloths",
+    "name_si": "මේස ආවරණ",
+    "category": "protective",
+    "description_en": "Practical table covering materials.",
+    "description_si": "මේස ආවරණ සඳහා ද්‍රව්‍ය.",
+    "image": "assets/images/products/table-cloths.svg",
+    "featured": false
+  },
+  {
+    "id": "lunch-boxes",
+    "name_en": "Lunch Boxes",
+    "name_si": "ආහාර පෙට්ටි",
+    "category": "food",
+    "description_en": "Lunch boxes for takeaway and food delivery.",
+    "description_si": "ආහාර රැගෙන යාම හා බෙදාහැරීම සඳහා පෙට්ටි.",
+    "image": "assets/images/products/lunch-boxes.svg",
+    "featured": true
+  },
+  {
+    "id": "cupcake-trays",
+    "name_en": "Cupcake Trays",
+    "name_si": "කප්කේක් තැටි",
+    "category": "food",
+    "description_en": "Cupcake trays for bakery presentation and packaging.",
+    "description_si": "බේකරි නිෂ්පාදන සඳහා කප්කේක් තැටි.",
+    "image": "assets/images/products/cupcake-trays.svg",
+    "featured": false
+  },
+  {
+    "id": "serviette-paper",
+    "name_en": "Serviette Paper",
+    "name_si": "නැප්කින් කඩදාසි",
+    "category": "food",
+    "description_en": "Serviette and tissue paper for food service.",
+    "description_si": "ආහාර සේවා සඳහා නැප්කින් කඩදාසි.",
+    "image": "assets/images/products/serviette-paper.svg",
+    "featured": false
+  },
+  {
+    "id": "paper-plates",
+    "name_en": "Paper Plates",
+    "name_si": "කඩදාසි පිඟන්",
+    "category": "food",
+    "description_en": "Disposable paper plates for serving.",
+    "description_si": "ආහාර පිළිගැන්වීම සඳහා කඩදාසි පිඟන්.",
+    "image": "assets/images/products/paper-plates.svg",
+    "featured": false
+  },
+  {
+    "id": "fruit-wrapping",
+    "name_en": "Fruit Wrapping",
+    "name_si": "පලතුරු ඇසුරුම් ආවරණ",
+    "category": "protective",
+    "description_en": "Fruit wrapping material for handling and presentation.",
+    "description_si": "පලතුරු ඇසුරුම් හා ආරක්ෂාව සඳහා ද්‍රව්‍ය.",
+    "image": "assets/images/products/fruit-wrapping.svg",
+    "featured": false
+  },
+  {
+    "id": "mango-cover-bags",
+    "name_en": "Mango Cover Bags",
+    "name_si": "අඹ ආවරණ බෑග්",
+    "category": "protective",
+    "description_en": "Cover bags designed for fruit protection applications.",
+    "description_si": "පලතුරු ආරක්ෂාව සඳහා ආවරණ බෑග්.",
+    "image": "assets/images/products/mango-cover-bags.svg",
+    "featured": false
+  },
+  {
+    "id": "pvc-tapes",
+    "name_en": "PVC Tapes",
+    "name_si": "PVC ටේප්",
+    "category": "protective",
+    "description_en": "PVC tapes for packing and general use.",
+    "description_si": "ඇසුරුම් හා සාමාන්‍ය භාවිතය සඳහා PVC ටේප්.",
+    "image": "assets/images/products/pvc-tapes.svg",
+    "featured": false
+  }
+]

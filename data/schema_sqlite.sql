@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS admins (id INTEGER PRIMARY KEY AUTOINCREMENT, username TEXT NOT NULL UNIQUE, password_hash TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS products (id INTEGER PRIMARY KEY AUTOINCREMENT, slug TEXT NOT NULL UNIQUE, name_en TEXT NOT NULL, name_si TEXT NOT NULL, category TEXT NOT NULL, description_en TEXT NOT NULL, description_si TEXT NOT NULL, image TEXT NOT NULL, featured INTEGER NOT NULL DEFAULT 0, active INTEGER NOT NULL DEFAULT 1, sort_order INTEGER NOT NULL DEFAULT 0);
+CREATE TABLE IF NOT EXISTS quotations (id INTEGER PRIMARY KEY AUTOINCREMENT, reference TEXT NOT NULL UNIQUE, customer_name TEXT NOT NULL, phone TEXT NOT NULL, email TEXT, company TEXT, product TEXT NOT NULL, material TEXT, quantity TEXT NOT NULL, dimensions TEXT, printing TEXT, delivery_location TEXT, notes TEXT, attachment_name TEXT, attachment_original TEXT, status TEXT NOT NULL DEFAULT 'new', created_at TEXT NOT NULL);
+CREATE TABLE IF NOT EXISTS settings (key_name TEXT PRIMARY KEY, value TEXT NOT NULL);
+CREATE INDEX IF NOT EXISTS quotes_created ON quotations(created_at);
